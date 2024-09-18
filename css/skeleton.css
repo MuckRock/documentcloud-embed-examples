@@ -442,6 +442,10 @@ pre > code {
   white-space: pre;
 }
 
+code.wrap {
+  white-space: wrap;
+}
+
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 th,
